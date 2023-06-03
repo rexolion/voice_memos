@@ -3,6 +3,7 @@ Simple script takes a Voice Memo from iCloud, transcribes it with Whisper AI, su
 
 ## Install
 
+- [Duplicate the Notion template](https://artyomalekseev.notion.site/aebfff89f28c4320a94226df2b569447?v=2fa70c9b8d3f44b4a0b89003f32d9d5c&pvs=4)
 - [Whisper AI to transcribe your notes](https://duckduckgo.com)
 - [GPT4All](https://github.com/nomic-ai/gpt4all) + [Python bindings to summorize your transcriptions](https://github.com/nomic-ai/gpt4all/blob/main/gpt4all-bindings/python/README.md)
 - jq (if not already in your system)
@@ -15,4 +16,4 @@ Simple script takes a Voice Memo from iCloud, transcribes it with Whisper AI, su
 4) Run it on with "bash script.sh &" to keep it on background.
 5) Enjoy you freshly baked transcriptions inside your Notion database.
 
-<img width="1037" alt="image" src="https://github.com/rexolion/voice_memos/assets/20303265/b13f4bf2-b308-40d3-837e-526114e8fa84">
+<img width="1097" alt="image" src="https://github.com/rexolion/voice_memos/assets/20303265/fb621da6-5599-48d2-a5a1-aa6125f4d6b6">
