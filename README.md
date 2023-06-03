@@ -13,7 +13,14 @@ Simple script takes a Voice Memo from iCloud, transcribes it with Whisper AI, su
 1) Prepare your Notion Database, it should have following fields: `date_recorded` and `duration`. Make sure that you added your application to the connenctions of the database.
 2) Change variables inside the script: your iCloud folder with memos, Notion secret, Notion database to save transcriptions.
 3) Change language, sound file format, and/or model size, GPT4All prompt, if needed.
-4) Run it on with "bash script.sh &" to keep it on background.
+4) Run it on with <code>bash script.sh &</code> to keep it on background.
 5) Enjoy you freshly baked transcriptions inside your Notion database.
+
+## Using
+
+1) Record your amazing speech with Voice Memos
+2) Move the recording to your selected iCloud folder
+3) Run <code>bash script.sh</code>
+4) Watch your note in Notion!
 
 <img width="1097" alt="image" src="https://github.com/rexolion/voice_memos/assets/20303265/fb621da6-5599-48d2-a5a1-aa6125f4d6b6">
